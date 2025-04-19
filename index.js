@@ -3,7 +3,7 @@ let noCount=0;
 var sentences=
 ["Hangyaak helti ammu? Khare helu do u like me?",
   "Hangella helbaardu ala ammu, innomme helu do you like me",
-  "Aytu bidammu nin helidanga na keltini helu ishta na illa anta.",
+  "Aytu bidammu nin helidanga na keltini helu ishta na illa anta?",
   "Ammu saak ammu esht NO click maadthidi I love you ammu, do you?",
   "Ammu nanna padiyoke punya maadirbrk allen ammu?",
   "Ammu hangaayak maadlikati omme helbidu YES anta",
