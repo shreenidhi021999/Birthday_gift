@@ -1,0 +1,32 @@
+body{
+    margin-top: 20px;
+    background-color: #FFF6B3;
+    text-align: center;
+}
+
+.emilys-candy-regular {
+    font-family: "Emilys Candy", serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: xx-large;
+    color:red;
+  }
+  .image-space{
+    margin:50px;
+    /* width: 500px;
+    height: 500px; */
+  }
+  .sentence-space{
+    margin:20px;
+    color: #155E95;
+  }
+.btn{
+    margin:10px;
+}
+img{
+  width:400px;
+  height:400px;
+}
+.disable{
+  cursor: not-allowed;
+}
