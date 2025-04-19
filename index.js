@@ -7,7 +7,7 @@ var sentences=
   "Ammu saak ammu esht NO click maadthidi I love you ammu, do you?",
   "Ammu nanna padiyoke punya maadirbrk allen ammu?",
   "Ammu hangaayak maadlikati omme helbidu YES anta",
-  "This is the last time I am asking DO you love me. And I m disbling the button."
+  "This is the last time I am asking DO you love me. And I m disabling the button."
      
 ];
 for(let i=0;i<2;i++)
