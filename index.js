@@ -26,7 +26,7 @@ for(let i=0;i<2;i++)
 function checkNo(){
     noCount++;
     document.querySelector(".sentence-space").textContent=sentences[noCount];
-    document.querySelector("img").setAttribute("src","images/image"+noCount+".gif");
+    document.querySelector("img").setAttribute("src","./image"+noCount+".gif");
     if(noCount===6){
        var button= document.querySelector("#no-btn");
        console.log(button);
@@ -43,11 +43,11 @@ function checkYes()
     yesCount++;
     if(noCount!==6){
         document.querySelector(".sentence-space").textContent="Naan enen ankondidu innu mugdilla sumne insvalpa NO ottu";
-        document.querySelector("img").setAttribute("src","images/getOut.gif");
+        document.querySelector("img").setAttribute("src","./getOut.gif");
     }
     else{
         document.querySelector(".sentence-space").textContent="Good girl and I love you more.";
-        document.querySelector("img").setAttribute("src","images/love-you.gif"); 
+        document.querySelector("img").setAttribute("src","./love-you.gif"); 
     }
 
 }
